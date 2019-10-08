@@ -1,4 +1,4 @@
-# coapserver-coapthon-client
+# esp-coap-server-coapthon-client
 Coap Server on Arduino and Coapthon client.
 
 Faça o download da pasta coapserver para sua pasta de libraries do Arduino;
