@@ -9,4 +9,4 @@ Instale o python 2;
 
 Instale o Coapthon com o comando pip install Coapthon;
 
-Execute coapclient.py para acender o led 1 vez e coapclient100 para piscar o led 50 vezes.
+Execute coapclient.py para acender o led (porta 10) 1 vez e coapclient100 para piscar o led 50 vezes.
